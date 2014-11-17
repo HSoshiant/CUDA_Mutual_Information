@@ -12,7 +12,7 @@ Installation :
   	
   	2.Execute "setup.m" to compile the files
   
-Using Instruction :
+Instruction :
 
 	Call calc_MI (data_matrix) and pass the input dataset as its parameter.
 	The return value is a vector contains Mutual Informations which can convert to matrix by using "squareform" function.
